@@ -10,6 +10,7 @@ module.exports = {
     'plugin:import/recommended',
     'plugin:import/warnings',
     'prettier',
+    'plugin:storybook/recommended',
   ],
   overrides: [],
   parserOptions: {
